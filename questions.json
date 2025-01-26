@@ -1,0 +1,432 @@
+{
+  "heading": "Rhyming Words",
+  "topics": [
+    {
+      "heading": "Rhyming Words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word rhymes with \"book\"?",
+          "options": [
+            {
+              "text": "N",
+              "image": "./assests/images/option/1.jpg",
+              "sound": "./assests/sounds/json/back.mp3"
+            },
+            {
+              "text": "B",
+              "image": "./assests/images/option/2.jpg",
+              "sound": "./assests/sounds/json/beak.mp3"
+            },
+            {
+              "text": "O",
+              "image": "./assests/images/option/3.jpg",
+              "sound": "./assests/sounds/json/look.mp3"
+            },
+            {
+              "text": "M",
+              "image": "./assests/images/option/4.jpg",
+              "sound": "./assests/sounds/json/lock.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct word is T-H-U-M-B. The letter 'B' in this word is silent."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank:<br> \"Pen\" rhymes with \"___\".",
+          "options": [
+            {
+              "text": "Pan"
+            },
+            {
+              "text": "Pin"
+            },
+            {
+              "text": "Pun"
+            },
+            {
+              "text": "Ten"
+            }
+          ],
+          "answer": 3,
+          "explanation": "The letter 'W' is silent at the beginning of 'wrist.' The letter 'W' is silent when it comes before 'R' at the start of a word."
+        },
+        {
+          "questionNo": 3,
+          "question": " \"Fox\" rhymes with \"box\".",
+
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Wrap' is the correct spelling. It has a silent 'W' at the beginning. This is an example of 'W' being silent before 'R'."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word does not rhyme with \"bee\"? ",
+          "options": [
+            {
+              "text": "See"
+            },
+            {
+              "text": "Tea"
+            },
+            {
+              "text": "Me"
+            },
+            {
+              "text": "Bay"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Rong' needs a silent 'W' at the beginning to become 'wrong,' which is the correct spelling. The other words are complete without adding a 'W'."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word rhymes with \"star\"? ",
+          "options": [
+            {
+              "text": "car",
+              "image": "./assests/images/option/5.jpg",
+              "sound": "./assests/sounds/json/car.mp3"
+              
+            },
+            {
+              "text": "dog",
+              "image": "./assests/images/option/6.jpg",
+              "sound": "./assests/sounds/json/dog.mp3"
+            },
+            {
+              "text": "sun",
+              "image": "./assests/images/option/7.jpg",
+              "sound": "./assests/sounds/json/sun.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The letter 'B' is silent in 'comb.' Letter B is silent after 'M'."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which word rhymes with \"cake\"? ",
+          "options": [
+            {
+              "text": "Book",
+              "image": "./assests/images/option/8.jpg",
+              "sound": "./assests/sounds/json/book.mp3"
+            },
+            {
+              "text": "shake",
+              "image": "./assests/images/option/9.jpg",
+              "sound": "./assests/sounds/json/shake.mp3"
+            },
+            {
+              "text": "cat",
+              "image": "./assests/images/option/10.jpg",
+              "sound": "./assests/sounds/json/cat.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The letter 'K' is silent in 'know.' The letter 'K' is silent when it comes before 'N' at the start of a word."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word rhymes with \"moon\"? ",
+          "options": [
+            {
+              "text": "spoon",
+              "image": "./assests/images/option/11.jpg",
+              "sound": "./assests/sounds/json/spoon.mp3"
+            },
+            {
+              "text": "cat",
+              "image": "./assests/images/option/12.jpg",
+              "sound": "./assests/sounds/json/ball.mp3"
+            },
+            {
+              "text": "cat",
+              "image": "./assests/images/option/13.jpg",
+              "sound": "./assests/sounds/json/star.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The letter 'W' is silent in 'wrap.' The letter 'W' is silent when it comes before 'R' at the start of a word."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word rhymes with \"toy\"? ",
+          "options": [
+            {
+              "text": "dog",
+              "image": "./assests/images/option/6.jpg",
+              "sound": "./assests/sounds/json/dog.mp3"
+            },
+            {
+              "text": "sun",
+              "image": "./assests/images/option/7.jpg",
+              "sound": "./assests/sounds/json/sun.mp3"
+            },
+            {
+              "text": "boy",
+              "image": "./assests/images/option/14.jpg",
+              "sound": "./assests/sounds/json/boy.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The letter 'C' is silent in 'scene.' The letter 'C' is silent when it comes after 'S' and before 'I' or 'E'."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word rhymes with \"sock\"?",
+          "options": [
+            {
+              "text": "Rock"
+            },
+            {
+              "text": "Book"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The letter 'B' is silent in 'doubt.' Letter B is silent before 'T', as also in the word 'debt.'"
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank:<br> \"The <b style='color:blue'>mouse</b> ran to the _______.\"",
+          "options": [
+            {
+              "text": "House"
+            },
+            {
+              "text": "Car"
+            },
+            {
+              "text": "Ball"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In 'brush,' all letters make a sound. The other words have silent letters: 'comb' has a silent 'B', 'scene' has a silent 'C', and 'wrist' has a silent 'W'."
+        },
+                {
+                  "questionNo": 11,
+                  "question": "Fill in the blank:<br>\"The <b style='color:blue'>cat</b> wore a _______.\" ",
+                  "options": [
+                    {
+                      "text": "Book"
+                    },
+                    {
+                      "text": "Dog"
+                    },
+                    {
+                      "text": "Hat"
+                    }
+                  ],
+                  "answer": 2,
+                  "explanation": "The letter 'K' is silent in 'knife.' The letter 'K' is silent when it comes before 'N' at the start of a word."
+                },
+                {
+                  "questionNo": 12,
+                  "question": "Fill in the blank:<br>\"The <b style='color:blue'>star</b> shines in the _______.\"",
+                  "options": [
+                    {
+                      "text": "Car"
+                    },
+                    {
+                      "text": "Sky"
+                    },
+                    {
+                      "text": "Sun"
+                    }
+                  ],
+                  "answer": 0,
+                  "explanation": "The word 'write' has a silent 'W' at the beginning. We don’t pronounce the 'W,' so it sounds like 'rite.'"
+                },
+                {
+                  "questionNo": 13,
+                  "question": "\"Tree\" and \"Bee\" are rhyming words. ",
+
+                  "options": [
+                    {
+                      "text": "True"
+                    },
+                    {
+                      "text": "False"
+                    }
+                  ],
+                  "answer": 0,
+                  "explanation": "The letter 'W' is silent in 'write.' The letter 'W' is silent when it comes before 'R' at the start of a word."
+                },
+                {
+                  "questionNo": 14,
+                  "question": "Which word rhymes with \"rain\"? ",
+                  "options": [
+                    {
+                      "text": "K",
+                      "image": "./assests/images/option/6.jpg",
+                      "sound": "./assests/sounds/json/dog.mp3"
+                    },
+                    {
+                      "text": "N",
+                      "image": "./assests/images/option/15.jpg",
+                      "sound": "./assests/sounds/json/train.mp3"
+                    },
+                    {
+                      "text": "I",
+                      "image": "./assests/images/option/16.jpg",
+                      "sound": "./assests/sounds/json/frog.mp3"
+                    }
+                  ],
+                  "answer": 1,
+                  "explanation": "The letter 'K' is silent in 'knit.' The letter 'K' is silent when it comes before 'N' at the start of a word."
+                },
+                {
+                  "questionNo": 15,
+                  "question": "Which word rhymes with \"duck\"? ",
+                  "options": [
+                    {
+                      "text": "Scent",
+                      "image": "./assests/images/option/17.jpg",
+              "sound": "./assests/sounds/json/truck.mp3"
+                    },
+                    {
+                      "text": "Scare",
+                      "image": "./assests/images/option/6.jpg",
+              "sound": "./assests/sounds/json/dog.mp3"
+                    },
+                    {
+                      "text": "Scale",
+                      "image": "./assests/images/option/10.jpg",
+              "sound": "./assests/sounds/json/cat.mp3"
+                    }
+                  ],
+                  "answer": 0,
+                  "explanation": "In 'scent,' the 'C' is silent. We pronounce it as 'sent.' This often happens when 'C' comes before 'E' or 'I' at the beginning of a word."
+                },
+                {
+                  "questionNo": 16,
+                  "question": "Which word rhymes with \"light\"? ",
+
+                  "options": [
+                    {
+                      "text": "K",
+                      "image": "./assests/images/option/8.jpg",
+                      "sound": "./assests/sounds/json/book.mp3"
+                    },
+                    {
+                      "text": "N",
+                      "image": "./assests/images/option/18.jpg",
+                      "sound": "./assests/sounds/json/kite.mp3"
+                    },
+                    {
+                      "text": "I",
+                      "image": "./assests/images/option/6.jpg",
+                      "sound": "./assests/sounds/json/dog.mp3"
+                    }
+                  ],
+                  "answer": 1,
+                  "explanation": "The complete spelling is L-U-C-K. The letter 'C' is silent because it is a combination of a word with 'CK'."
+                },
+                {
+                  "questionNo": 17,
+                  "question": "Which word rhymes with \"fish\"? ",
+              
+                  "options": [
+                    {
+                      "text": "K",
+                      "image": "./assests/images/option/19.jpg",
+                      "sound": "./assests/sounds/json/tree.mp3"
+                    },
+                    {
+                      "text": "N",
+                      "image": "./assests/images/option/20.jpg",
+                      "sound": "./assests/sounds/json/bird.mp3"
+                    },
+                    {
+                      "text": "I",
+                      "image": "./assests/images/option/21.jpg",
+                      "sound": "./assests/sounds/json/dish.mp3"
+                    }
+                  ],
+                  "answer": 2,
+                  "explanation": "The complete spelling is K-N-O-C-K. The letter 'K' is silent when it comes before 'N' at the start of a word. The letter 'C' is also silent in words with 'CK'."
+                },
+                {
+                  "questionNo": 18,
+                  "question": "Which word rhymes with \"clown\"? ",
+                  "options": [
+                    {
+                      "text": "K",
+                      "image": "./assests/images/option/22.jpg",
+                      "sound": "./assests/sounds/json/balloon.mp3"
+                    },
+                    {
+                      "text": "N",
+                      "image": "./assests/images/option/23.jpg",
+                      "sound": "./assests/sounds/json/town.mp3"
+                    },
+                    {
+                      "text": "I",
+                      "image": "./assests/images/option/19.jpg",
+                      "sound": "./assests/sounds/json/tree.mp3"
+                    }
+                  ],
+                  "answer": 1,
+                  "explanation": "'Numb' is the correct spelling. The 'B' at the end is silent, but it's part of the correct spelling. This is an example of 'B' being silent after 'M' at the end of a word."
+                },
+                {
+                  "questionNo": 19,
+                  "question": "Which word rhymes with \"kite\"? ",
+
+                  "options": [
+                    {
+                      "text": "K",
+                      "image": "./assests/images/option/24.jpg",
+                      "sound": "./assests/sounds/json/bite.mp3"
+                    },
+                    {
+                      "text": "N",
+                      "image": "./assests/images/option/25.jpg",
+                      "sound": "./assests/sounds/json/fly.mp3"
+                    },
+                    {
+                      "text": "I",
+                      "image": "./assests/images/option/16.jpg",
+                      "sound": "./assests/sounds/json/frog.mp3"
+                    }
+                  ],
+                  "answer": 0,
+                  "explanation": "'Sauce' and 'boss' rhyme because they both end with the same sound, despite their different spellings."
+                },
+                {
+                  "questionNo": 20,
+                  "question": "Which word rhymes with \"cake\"? ",
+
+                  "options": [
+                    {
+                      "text": "Ball",
+                      "image": "./assests/images/option/12.jpg",
+                      "sound": "./assests/sounds/json/ball.mp3"
+                    },
+                    {
+                      "text": "Lake",
+                      "image": "./assests/images/option/26.jpg",
+                      "sound": "./assests/sounds/json/lake.mp3"
+                    },
+                    {
+                      "text": "Tree",
+                      "image": "./assests/images/option/19.jpg",
+                      "sound": "./assests/sounds/json/tree.mp3"
+                    }
+                  ],
+                  "answer": 1,
+                  "explanation": "The word 'know' rhymes with 'no' because they have the same ending sound. Even though 'know' has a silent 'k,' it sounds just like 'no.'"
+                }
+              ]
+            }
+          ]
+        }
+        
